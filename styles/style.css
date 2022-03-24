@@ -27,7 +27,6 @@
   z-index: 3;
   margin-top: 30px;
   margin-left: 64px;
-  width: 183px;
   height: 32px;
 }
 
@@ -272,7 +271,7 @@
   justify-content: space-around;
 }
 
-.footer__column_content_copywright {
+.footer__column_content_copyright {
   display: flex;
   flex-direction: column;
   flex-basis: 711px;
