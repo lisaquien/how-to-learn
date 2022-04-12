@@ -1,5 +1,6 @@
 .header__subtitle {
   max-width: 388px;
+  margin-top: 0;
   margin-bottom: 30px;
   margin-left: 64px;
   line-height: 25px;
